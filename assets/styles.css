@@ -1,0 +1,16 @@
+* {
+    box-sizing: content-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;  
+}
+
+body {
+    background-color:deepskyblue;
+    margin: 15px;
+}
+
+.header {
+    background-color: chartreuse;
+    padding: 25px;
+}
